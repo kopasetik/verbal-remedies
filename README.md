@@ -39,6 +39,7 @@ amortized analysis
 mutable API  
 thread safe  
 algorithm invariant  
+reification  
 
 # Other resources
 
