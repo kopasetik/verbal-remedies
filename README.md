@@ -51,5 +51,5 @@ reification
 
 [A lightning quick reference for jargon](https://twitter.com/searls/status/609521655405113344)  
 [A less quick reference (specific to Javascript)](https://github.com/HugoGiraudel/SJSJ)  
-[The Jargon File - Glossary](http://www.catb.org/jargon/html/go01.html)  
+[The Jargon File - Glossary of Hacker Terms](http://www.catb.org/jargon/html/go01.html)  
 [Skillcrush's Lexicon of 99 Tech Terms](http://skillcrush.com/2015/03/26/99-tech-terms/)  
