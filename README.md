@@ -17,7 +17,13 @@ composition
 (syntactical) sugar  
 interface  
 loose coupling high cohesion  
-YAGNI  
+
+**YAGNI**: An acronym that stands for "You aren't gonna need it." Following
+this principle, a developer shouldn't add something to their code until it's
+actually necessary. This is to prevent developers from focusing too much
+energy on areas they *think* might be important in the future, but which
+ultimately turn out to be superfluous to the end product.
+
 DRY  
 principle of least surprise  
 single responsibility  
