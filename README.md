@@ -5,47 +5,46 @@ That’s why I’m translating a bunch of terms that come up a lot in tech liter
 
 # The terms
 
-serialization/marshalling  
-idempotence  
-immutability  
-paradigm  
-idiomatic  
-fuzzing  
+algorithm invariant  
+amortized analysis  
+bulletproof code  
+casting  
+composition  
+covariant  
+DRY  
 expressive  
 Extract/Transform/Load (ETL)  
-composition  
-(syntactical) sugar  
+fuzzing  
+Hindley-Milner  
+idempotence  
+idiomatic  
+immutability  
 interface  
+iterable  
+iterator  
 loose coupling high cohesion  
+mutable API  
+observable  
+observer  
+orthogonal  
+paradigm  
+performant  
+principle of least surprise  
+reification  
+serialization/marshalling  
+single responsibility  
+single source of truth  
+state machine
+(syntactical) sugar    
+TDD/BDD  
+thread safe  
+void (js)  
 
 **YAGNI**: An acronym that stands for "You aren't gonna need it." Following
 this principle, a developer shouldn't add something to their code until it's
 actually necessary. This is to prevent developers from focusing too much
 energy on areas they *think* might be important in the future, but which
 ultimately turn out to be superfluous to the end product.
-
-DRY  
-principle of least surprise  
-single responsibility  
-TDD/BDD  
-single source of truth  
-orthogonal  
-performant  
-state machine  
-Hindley-Milner  
-void (js)  
-casting  
-covariant  
-iterable  
-iterator  
-observable  
-observer  
-bulletproof code  
-amortized analysis  
-mutable API  
-thread safe  
-algorithm invariant  
-reification  
 
 # Other resources
 
