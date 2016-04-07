@@ -14,6 +14,7 @@ covariant
 DRY  
 expressive  
 Extract/Transform/Load (ETL)  
+fault tolerance  
 fuzzing  
 Hindley-Milner  
 idempotence  
