@@ -17,6 +17,7 @@ Extract/Transform/Load (ETL)
 fault tolerance  
 fuzzing  
 Hindley-Milner  
+homoiconicity  
 idempotence  
 idiomatic  
 immutability  
