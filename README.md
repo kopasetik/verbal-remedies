@@ -10,7 +10,10 @@ amortized analysis
 bulletproof code  
 casting  
 composition  
-covariant  
+covariant
+
+**DEPLOYMENT**: all of the activities that make a software system available for use. (Credit: [Wikipedia](https://en.wikipedia.org/wiki/Software_deployment).) Separate from tasks such as editing content, designing an interface, or coding the functionality of a software project, deployment is often a final stage and the specific process of pushing or publishing a software project to an access point for others to use.
+
 DRY  
 expressive  
 Extract/Transform/Load (ETL)  
