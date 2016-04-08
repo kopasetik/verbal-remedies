@@ -36,7 +36,10 @@ principle of least surprise
 reification  
 serialization/marshalling  
 single responsibility  
-single source of truth  
+single source of truth
+
+**STAGING**: The testing process - and often an entire environment - that allows review of a software project. A virtual "kicking of the tires," staging a project typically happens in a private, test environment where it can be put through some simulated, real-world-like use as a way to avoid unpredicted failures. Staging often happens as the step before deploying or publishing software to a non-test, production environment.
+
 state machine
 (syntactical) sugar    
 TDD/BDD  
