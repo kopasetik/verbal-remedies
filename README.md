@@ -13,6 +13,7 @@ composition
 covariant  
 DRY  
 expressive  
+eviction  
 Extract/Transform/Load (ETL)  
 fault tolerance  
 fuzzing  
@@ -22,8 +23,10 @@ idempotence
 idiomatic  
 immutability  
 interface  
+invalidation  
 iterable  
 iterator  
+load balancing  
 loose coupling high cohesion  
 mutable API  
 observable  
