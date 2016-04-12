@@ -28,7 +28,12 @@ iterable
 iterator  
 load balancing  
 loose coupling high cohesion  
+memoization  
 mutable API  
+MVC (Model/View/Controller)  
+MVCC (Multiversion concurrency control)  
+MVP (Model/View/Presenter)  
+MVVM (Model/View/ViewModel)  
 observable  
 observer  
 orthogonal  
@@ -40,6 +45,7 @@ serialization/marshalling
 single responsibility  
 single source of truth  
 state machine
+sticky load balancing  
 (syntactical) sugar    
 TDD/BDD  
 thread safe  
