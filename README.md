@@ -7,9 +7,11 @@ That’s why I’m translating a bunch of terms that come up a lot in tech liter
 
 algorithm invariant  
 amortized analysis  
+asynchronous  
 bulletproof code  
 casting  
 composition  
+concurrency  
 covariant  
 DRY  
 expressive  
@@ -29,6 +31,7 @@ iterator
 load balancing  
 loose coupling high cohesion  
 memoization  
+module  
 mutable API  
 MVC (Model/View/Controller)  
 MVCC (Multiversion concurrency control)  
@@ -39,14 +42,16 @@ observer
 orthogonal  
 paradigm  
 performant  
+pipe/piping/pipeline  
 principle of least surprise  
 reification  
 serialization/marshalling  
 single responsibility  
 single source of truth  
 state machine
-sticky load balancing  
-(syntactical) sugar    
+sticky load balancing
+synchronous    
+(syntactical) sugar  
 TDD/BDD  
 thread safe  
 void (js)  
