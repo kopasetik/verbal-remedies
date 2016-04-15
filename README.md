@@ -75,3 +75,4 @@ ultimately turn out to be superfluous to the end product.
 [The Jargon File - Glossary of Hacker Terms](http://www.catb.org/jargon/html/go01.html)  
 [Useful Glossaries for Web Designers and Developers](https://www.smashingmagazine.com/2009/05/useful-glossaries-for-web-designers-and-developers/)  
 [Skillcrush's Lexicon of 99 Tech Terms](http://skillcrush.com/2015/03/26/99-tech-terms/)  
+[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)  
