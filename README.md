@@ -25,7 +25,9 @@ fuzzing
 Hindley-Milner  
 homoiconicity  
 idempotence  
-idiomatic  
+
+**IDIOMATIC**: Code written in the accepted style of its language community. For example, Ruby code written with a `for` loop would likely be unidiomatic because usage of methods from [Enumerable](http://ruby-doc.org/core-2.3.1/Enumerable.html) is preferred by most Ruby developers. Idiomatic code is often considered easier to read.
+
 immutability  
 interface  
 invalidation  
