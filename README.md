@@ -33,6 +33,9 @@ iterable
 iterator  
 load balancing  
 loose coupling high cohesion  
+
+**MARSHALLING**: Any mechanism for transforming an object into bytes for transmission or storage such that an equivalent instance of that object can be reconstituted elsewhere or at a later time. Marshalling is similar to serialization and the terms may be used interchangeably by some languages. Examples of marshalling include Python's [pickle](https://docs.python.org/3/library/pickle.html), Ruby's [Marshal](http://ruby-doc.org/core-2.3.0/Marshal.html), and Java's [Serializable interface](https://docs.oracle.com/javase/7/docs/api/java/io/Serializable.html). 
+
 memoization  
 module  
 mutable API  
@@ -48,7 +51,9 @@ performant
 pipe/piping/pipeline  
 principle of least surprise  
 reification  
-serialization/marshalling  
+
+**SERIALIZATION**: The process of converting data into a known format that can be transfered or stored. In contrast to marshalling, serialization typically implies converting objects into a simpler, data-only representation (though the terms may be used interchangeably by some languages). There are [dozens of serialization formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats) with different tradeoffs. For example, [JSON](https://en.wikipedia.org/wiki/JSON) is human-readable and flexible but verbose, while [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers) are compact and require a schema be defined.
+
 single responsibility  
 single source of truth
 
