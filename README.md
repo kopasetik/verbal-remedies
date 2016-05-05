@@ -16,7 +16,8 @@ covariant
 
 **DEPLOYMENT**: all of the activities that make a software system available for use. (Credit: [Wikipedia](https://en.wikipedia.org/wiki/Software_deployment).) Separate from tasks such as editing content, designing an interface, or coding the functionality of a software project, deployment is often a final stage and the specific process of pushing or publishing a software project to an access point for others to use.
 
-DRY  
+**DRY**: Acronym for "Don't repeat yourself" which is the concept that there should not be multiple instances of code accomplishing the same task. The primary ways to achieve this is to emphasize modularity where functions/methods typically accomplish one thing very well. [More info](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+  
 expressive  
 eviction  
 Extract/Transform/Load (ETL)  
