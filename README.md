@@ -6,8 +6,10 @@ That’s why I’m translating a bunch of terms that come up a lot in tech liter
 # The terms
 
 algorithm invariant  
-amortized analysis  
-**ASYNCHRONOUS:** Refers to events (often function calls) that happen "out of sync". For example, normally when you call a function `foo`, the computer runs the code in `foo` before proceeding to the next line (or _expression_) after the call to `foo`. If `foo` is an _asynchronous function_, then the computer does not finish waiting for the function to "fully execute" before proceeding on to whatever's after the call to `foo`. This is a common pattern in NodeJS, for example, where most function calls are asynchronous, and each is given is a _callback_ function that gets run when the function finishes executing. Where does the actual computation of the function occur? Normally it occurs on a background _thread_ (a "lightweight process") that's processing _events_ on an _event queue_.
+amortized analysis 
+
+**ASYNCHRONOUS:** Refers to events (often function calls) that happen "out of sync". For example, normally when you call a function `foo`, the computer runs the code in `foo` before proceeding to the next line (or the next _expression_) after the call to `foo`. If `foo` is an _asynchronous function_, then the computer does not finish waiting for the function to "fully execute" before proceeding on to whatever's after the call to `foo`. This is a common pattern in NodeJS, for example, where most function calls are asynchronous, and each is given is a _callback_ function that gets run when the function finishes executing. Where does the actual computation of the function occur? Normally it occurs on a background _thread_ (a "lightweight process") that's processing _events_ on an _event queue_.
+
 bulletproof code  
 casting  
 composition  
