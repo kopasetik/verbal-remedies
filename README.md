@@ -53,7 +53,9 @@ observer
 orthogonal  
 paradigm  
 performant  
-pipe/piping/pipeline  
+
+**PIPE/PIPING/PIPELINE**: A metaphor from plumbing, a _pipe_ or _pipeline_ is a way of connecting the output of one program (a _stream_) as the input to another program. The act of constructing a pipeline is _piping_ and the `|` character is called _pipe_ after its usage to construct pipelines in the Unix shell. The pipe concept is used in many data processing systems.
+
 principle of least surprise  
 reification  
 
